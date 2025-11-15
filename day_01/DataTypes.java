@@ -18,7 +18,7 @@ public class DataTypes {
         //local variables in java must be initialized before use otherwise it will give error
         // int a;
         // System.out.println(a); // error: variable a might not have been initialized
-        int a; // not initialized
+        // int a; // not initialized
         // System.out.println(a); // error: variable a might not have been initialized
         
 
@@ -29,7 +29,7 @@ public class DataTypes {
 
         //while variable which can be changed is declared without final keyword or by var keayword
         var radius = 5.0;
-
+        System.out.println("Radius: " + radius );
         // datatypes are of two types: primitive/primary/valueType and non-primitive/secondary/referenceType
         // primitive data types are 8 types in java which are as follows: and they are immutable in nature
         // 1. byte: capacity of 1 byte (8 bits)

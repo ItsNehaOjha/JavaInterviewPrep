@@ -1,4 +1,4 @@
-package day_03;
+package day_02;
 
 public class BreakOrContinue {
     public static void main(String[] args) {

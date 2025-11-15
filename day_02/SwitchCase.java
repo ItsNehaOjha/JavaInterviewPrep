@@ -1,4 +1,4 @@
-package day_03;
+package day_02;
 
 public class SwitchCase {
     public static void main(String[] args) {
@@ -108,5 +108,6 @@ public class SwitchCase {
                 yield 40;
             }
         };
+        System.out.println("Result: " + result);
     }
 }

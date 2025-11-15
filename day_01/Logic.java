@@ -1,4 +1,4 @@
-package day_02;
+package day_01;
 
 public class Logic {
     // for aur while e diffrence 

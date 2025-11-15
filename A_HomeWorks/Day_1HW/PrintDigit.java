@@ -1,4 +1,4 @@
-package day_02;
+package A_HomeWorks.Day_1HW;
 
 public class PrintDigit {
     public static void main(String[] args) {
@@ -8,11 +8,9 @@ public class PrintDigit {
         while(num>=0){
             num/=10;
             c++;
-        }
+        }   
+        System.out.println(c);
 
-        for(int i=c;i>=c;i--){
-            
-
-        }
+       
     }
 }

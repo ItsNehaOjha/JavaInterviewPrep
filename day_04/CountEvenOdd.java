@@ -1,4 +1,4 @@
-package day_05;
+package day_04;
 
 public class CountEvenOdd {
     public static void main(String[] args) {

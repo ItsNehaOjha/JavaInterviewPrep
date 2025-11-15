@@ -1,4 +1,4 @@
-package question_50;
+package A_HomeWorks.Day_3HW;
 
 import java.util.Scanner;
 

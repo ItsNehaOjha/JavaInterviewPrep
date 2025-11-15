@@ -1,4 +1,4 @@
-package day_04;
+package day_03;
 
 public class Pattern2 {
     public static void main(String[] args) {

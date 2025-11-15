@@ -1,4 +1,4 @@
-package day_02;
+package day_01;
 
 public class InputDemo {
     public static void main(String[] args) {

@@ -9,8 +9,7 @@ package A_HomeWorks.Day_1HW;
 public class EvenAndOddPlaceSumOfDigit {
     public static void main(String[] args) {
         int num = 12345;
-        int evenPlace = 0;
-        int oddPlace = 0;
+       
         
     }
 }

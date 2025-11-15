@@ -1,4 +1,4 @@
-package day_03;
+package day_02;
 
 public class EnhanceForLoop {
     public static void main(String[] args) {
@@ -11,15 +11,15 @@ public class EnhanceForLoop {
 
 
         // all of the valid syntax of creating array
-        int[] arr1 = new int[5];
-        int arr2[] = new int[5];
-        int[] arr3 = {1, 2, 3, 4, 5};
-        int arr4[] = {1, 2, 3, 4, 5};
-        int arr[]  = new int[]{1, 2, 3, 4, 5};
+        // int[] arr1 = new int[5];
+        // int arr2[] = new int[5];
+        // int[] arr3 = {1, 2, 3, 4, 5};
+        // int arr4[] = {1, 2, 3, 4, 5};
+        // int arr[]  = new int[]{1, 2, 3, 4, 5};
 
 
         // arraylist
-        java.util.ArrayList<String> list = new java.util.ArrayList<>(); // bracket me capacity likhte
+        // java.util.ArrayList<String> list = new java.util.ArrayList<>(); // bracket me capacity likhte
 
 
         // java functional programming bhi hoti h by java 8 and OOP bhi hoti h

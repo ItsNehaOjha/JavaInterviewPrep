@@ -1,4 +1,4 @@
-package day_05;
+package day_04;
 
 public class Recursion {
     // return ke bad uske pas jate h jisne usko bulaya

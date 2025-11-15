@@ -1,4 +1,4 @@
-package day_04;
+package day_03;
 
 public class Patter3 {
 

@@ -1,4 +1,4 @@
-package question_50;
+package A_HomeWorks.Day_3HW;
 
 public class HarshedNo {
     // Given a number, check if it’s a Harshad number (sum of digits divides the number).
