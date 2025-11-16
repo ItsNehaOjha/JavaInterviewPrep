@@ -1,6 +1,6 @@
 package A_HomeWorks.Day_4HW;
 
-public class CountEvenOdd {
+public class CountEvenOddInRange {
     public static void main(String[] args) {
         // count even odd from 1 to N
         cntEvenOdd(100, 0 , 0);
