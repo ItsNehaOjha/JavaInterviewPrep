@@ -1,4 +1,4 @@
-package day_04;
+package A_HomeWorks.Day_4HW;
 
 public class CountEvenOdd {
     public static void main(String[] args) {

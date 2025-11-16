@@ -9,6 +9,21 @@ public class FindFrequencyOfEachDigitInANumber {
         // 2 occurs 2 times
         // 3 occurs 3 times
         // 4 occurs 4 times
-        int[] freq = new int[10];
+        int[] hashfreq = new int[10];
+        int n = 1223334444;
+        
+        while(n>0){
+            int dig = n%10;
+            hashfreq[dig]++;  //
+            n/=10;
+        }
+
+        for(int i=0; i<10; i++){
+            if(hashfreq[i] > 0){
+                System.out.println(i + " occurs " + hashfreq[i] + " times");
+            }
+        }
+
+
     }
 }
