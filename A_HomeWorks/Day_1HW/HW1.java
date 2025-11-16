@@ -1,4 +1,4 @@
-package day_01;
+package A_HomeWorks.Day_1HW;
 
 public class HW1 {
     public static void main(String[] args) {

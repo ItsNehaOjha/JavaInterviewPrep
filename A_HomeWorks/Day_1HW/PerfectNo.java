@@ -5,8 +5,19 @@ public class PerfectNo {
         // perfect no
         // number which is equal to sum of its proper divisors
         // 6 = 1 + 2 + 3
-        int a = 10; 
-        
+        int n = 10; 
+        int ans = 0;
+        for(int i=1;i<n;i++){
+            if(n%i == 0){
+                ans+=i;
+            }
+        }
+        if(ans == n){
+            System.out.println(n + " is a perfect number ");
+        }else{
+            System.out.println(n + " is not perfect number ");
+        }
+          
     }
     // real implementation of abstraction
     // mtlb jese do class h to dono me bat krni h to abstarction kese lgayenge
